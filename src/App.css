@@ -1,0 +1,16 @@
+button{
+  margin-right: 30px;
+  
+}
+
+div{
+  text-align: center;
+  padding: 50px;
+  background-color: antiquewhite;
+}
+
+button{
+  color: blueviolet;
+  height: 30px;
+  width: 75px;
+}
